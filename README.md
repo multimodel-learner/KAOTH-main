@@ -1,2 +1,1 @@
-# KAOTH-main
-comming soon.
+# KAOTH
